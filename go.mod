@@ -1,4 +1,4 @@
-module learngo/cli
+module github.com/duydoxuan/learn-go
 
 go 1.20
 
